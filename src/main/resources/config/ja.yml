@@ -27,10 +27,10 @@ BotToken: "BOTTOKEN"
 Channels: {"global": "000000000000000000"}
 
 # コンソールチャンネルの数値のID(チャンネル名ではありません)。コンソールチャンネルを全て無効にするなら、空のままにしてください。
-DiscordConsoleChannelId: "000000000000000000"
+DiscordConsoleChannelId: "844474442042310666"
 
 # /discordの使用時にプレーヤーに表示される招待リンク、およびリンクが強制されるときにリンクされていないプレーヤーに表示されるメッセージに表示される招待リンク
-DiscordInviteLink: "discord.gg/changethisintheconfig.yml"
+DiscordInviteLink: "discord.gg/nnDtEvgM8h"
 
 # デバッグオプションです。必要無いなら変更しないでください。
 #
@@ -62,7 +62,7 @@ ParseEmojisToNames: true
 MaximumAttemptsForSystemDNSBeforeUsingFallbackDNS: 3
 TimestampFormat: EEE, d. MMM yyyy HH:mm:ss z
 DateFormat: yyyy-MM-dd
-Timezone: UTC
+Timezone: JST
 
 # プラグインフック
 #
@@ -83,7 +83,7 @@ UseModernPaperChatEvent: false
 #
 # DiscordGameStatus: Text to display. Can be a single value e.g. "Minecraft", or multiple values e.g. ["Minecraft", "yourip.changeme.com"]
 # StatusUpdateRateInMinutes: How frequently to cycle the status
-DiscordGameStatus: "playing Minecraft"
+DiscordGameStatus: "Call56NetWorkSecound稼働中"
 StatusUpdateRateInMinutes: 2
 
 # チャットチャンネル情報
